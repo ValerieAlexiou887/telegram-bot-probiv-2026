@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ValerieAlexiou887.github.io/telegram-bot-probiv-2026/sitemap.xml
